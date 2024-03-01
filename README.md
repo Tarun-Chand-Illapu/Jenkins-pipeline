@@ -1,4 +1,4 @@
-# Jenkins-first-pipeline
+# Jenkins-pipeline
 
 **🚀 Welcome to our Jenkins Pipeline Repository! 🛠️**
 
